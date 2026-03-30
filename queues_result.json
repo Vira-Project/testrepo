@@ -1,0 +1,1454 @@
+{
+  "query": {
+    "city": "Ковель",
+    "street": "Володимирська"
+  },
+  "total_rows": 93,
+  "rows": [
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "(ринок), ., 58, 60, 62, 62Б, 64, 66, 68, 69, 70, 71, 71А, 72, 73, 73 А, 74, 87, , ринок",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": ".",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "1",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "1",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "1",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "10, 11, 12, 13, 14, 15, 15А, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 6, 7, 8, 9",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "100, 102, 104, 106, 108, 110, 114, 114А, 114Г, 116, 118, 96А",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "101",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "101",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "103, 78, 80, 82, 84, 84А, 86, 88, 90, 90А, 92, 94, 95, 96, 98,",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "105",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "109, 111, 115, 117, 119, 121, 123, 129, 131",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "118",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "120",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "124",
+      "gpv_queue": "5.2",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "125",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "131, 131а",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "133",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135 А",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135 В, 135-Б",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "135, 135 В, 144, 146, 148, 150, 150а",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "137",
+      "gpv_queue": "4.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "137",
+      "gpv_queue": "4.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "140",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "140, 140А, 142",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "142",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "143",
+      "gpv_queue": "2.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "143",
+      "gpv_queue": "2.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "150",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "150-А",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "150-А",
+      "gpv_queue": "4.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "152",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "152",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "154",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "154",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "154",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "154",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "154а",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "156",
+      "gpv_queue": "Не залучено",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "156",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "156",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "156, 160",
+      "gpv_queue": "Не залучено",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "160",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "160",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "2",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "24, 26, 28, 28А, 30, 32, 33, 34, 35, 36, 36А, 37, 38, 39, 39А, 40А, 41, 42, 43, 45, 45А, 45Б, 47, 49, 51, 52, 53, 54, 55, 56, 57, 63, 65, 65-А, 65А, 67, 69,",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "29, 31",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "3",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "3, 3/",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "4",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "4",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "4",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "4, 4А",
+      "gpv_queue": "6.1",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "44, 46, 48, 50, 50А, 52, 52А, 61",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "60",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "76",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "79, 87",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "81",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "83,а, 83А",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85 а",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85-Б",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85-Б",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85-Б, 85б",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "85/2",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "87",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "87",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "87",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "89, біля буд.89",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "91, 91А",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "91, 91А",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "93",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "95",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "95 А, 95-А/1",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "95А",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "97",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "97",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "97а",
+      "gpv_queue": "4.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "99, 99/37А",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "",
+      "gpv_queue": "5.2",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "",
+      "gpv_queue": "1.2",
+      "gav_queue": "Не залучено"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "навпроти ринку",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    },
+    {
+      "district": "Ковельський",
+      "locality": "Ковель",
+      "street": "Володимирська",
+      "house": "ринок",
+      "gpv_queue": "1.1",
+      "gav_queue": "10"
+    }
+  ],
+  "queues_gpv": {
+    "1.1": {
+      "queue": "1.1",
+      "addresses_count": 31,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "(ринок), ., 58, 60, 62, 62Б, 64, 66, 68, 69, 70, 71, 71А, 72, 73, 73 А, 74, 87, , ринок",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "100, 102, 104, 106, 108, 110, 114, 114А, 114Г, 116, 118, 96А",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "101",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "103, 78, 80, 82, 84, 84А, 86, 88, 90, 90А, 92, 94, 95, 96, 98,",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135 В, 135-Б",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135, 135 В, 144, 146, 148, 150, 150а",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "140",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "140, 140А, 142",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "142",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "24, 26, 28, 28А, 30, 32, 33, 34, 35, 36, 36А, 37, 38, 39, 39А, 40А, 41, 42, 43, 45, 45А, 45Б, 47, 49, 51, 52, 53, 54, 55, 56, 57, 63, 65, 65-А, 65А, 67, 69,",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "44, 46, 48, 50, 50А, 52, 52А, 61",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "60",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "76",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "79, 87",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85-Б",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85-Б",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85-Б, 85б",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "87",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "89, біля буд.89",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "91, 91А",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "91, 91А",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "93",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "95",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "95 А, 95-А/1",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "97",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "97",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "99, 99/37А",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "навпроти ринку",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "ринок",
+          "gav_queue": "10"
+        }
+      ]
+    },
+    "1.2": {
+      "queue": "1.2",
+      "addresses_count": 8,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "105",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "109, 111, 115, 117, 119, 121, 123, 129, 131",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "125",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "131, 131а",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "133",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135 А",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    },
+    "2.1": {
+      "queue": "2.1",
+      "addresses_count": 2,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "143",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "143",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    },
+    "4.1": {
+      "queue": "4.1",
+      "addresses_count": 3,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "137",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "137",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "150-А",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    },
+    "4.2": {
+      "queue": "4.2",
+      "addresses_count": 34,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": ".",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "101",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "118",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "120",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "135",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "150",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "150-А",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "152",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "152",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "154",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "154",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "154",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "154",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "154а",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "156",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "156",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "160",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "160",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "29, 31",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "81",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "83,а, 83А",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85 а",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "85/2",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "87",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "87",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "95А",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "97а",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    },
+    "5.2": {
+      "queue": "5.2",
+      "addresses_count": 2,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "124",
+          "gav_queue": "10"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "",
+          "gav_queue": "10"
+        }
+      ]
+    },
+    "6.1": {
+      "queue": "6.1",
+      "addresses_count": 11,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "1",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "1",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "1",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "10, 11, 12, 13, 14, 15, 15А, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 6, 7, 8, 9",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "2",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "3",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "3, 3/",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "4",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "4",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "4",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "4, 4А",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    },
+    "Не залучено": {
+      "queue": "Не залучено",
+      "addresses_count": 2,
+      "addresses": [
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "156",
+          "gav_queue": "Не залучено"
+        },
+        {
+          "district": "Ковельський",
+          "locality": "Ковель",
+          "street": "Володимирська",
+          "house": "156, 160",
+          "gav_queue": "Не залучено"
+        }
+      ]
+    }
+  }
+}

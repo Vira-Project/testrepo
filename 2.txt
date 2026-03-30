@@ -1,0 +1,43 @@
+import requests
+
+cookies = {
+    'cf_clearance': 'QLKuwZl36VX76o8P4UUhOxqe_DLaFFW4PSQND4VEAuY-1764959839-1.2.1.1-HK2Xkr7B0CfCJARMYfFtkpZkhhLUDPkHuDk0Iz8NnzdDGWf4u7h6BttkaRfq.LqSgQw_iNRW5FOHI_8uApOBfb3oulpE4jQj8U7fWwyeWS..qUD.Syhkckzz6CXqUCybFTInlYYQDADAwRAX1dGQ_Z8Hb6.wQuvhKdDVlV0CkiVZJ3VhbkSHSJtfWNgqHR46Hb0jOt9GEk2hrhkegOiWKkaJO2hbLntawQjeIGVlcmU',
+    'PHPSESSID': 'c4b8b21a995ea6cbfcab7d416f8340ee',
+    '__cf_bm': 'wfHLTJ7vo35OsxR46Kueonra0jZ4_xizAaGMBQyMZ_I-1774027123.5076904-1.0.1.1-.Wz_fqCgTlkR4VixmTe7cQoLI0hv_jKKNG9DuigGMU9RW.dyteEs4jMP_Kp2xwe8ES.ySFeMmUYd.Tv2urG3ZgEo_gVnSfHDl9RaBLX80ayyaL_iDlFnPT1T9VUVTajb',
+}
+
+headers = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    # 'Accept-Encoding': 'gzip, deflate, br, zstd',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Origin': 'https://energy.volyn.ua',
+    'Sec-GPC': '1',
+    'Connection': 'keep-alive',
+    'Referer': 'https://energy.volyn.ua/spozhyvacham/perervy-u-elektropostachanni/hrafik-vidkliuchen/',
+    # 'Cookie': 'cf_clearance=QLKuwZl36VX76o8P4UUhOxqe_DLaFFW4PSQND4VEAuY-1764959839-1.2.1.1-HK2Xkr7B0CfCJARMYfFtkpZkhhLUDPkHuDk0Iz8NnzdDGWf4u7h6BttkaRfq.LqSgQw_iNRW5FOHI_8uApOBfb3oulpE4jQj8U7fWwyeWS..qUD.Syhkckzz6CXqUCybFTInlYYQDADAwRAX1dGQ_Z8Hb6.wQuvhKdDVlV0CkiVZJ3VhbkSHSJtfWNgqHR46Hb0jOt9GEk2hrhkegOiWKkaJO2hbLntawQjeIGVlcmU; PHPSESSID=c4b8b21a995ea6cbfcab7d416f8340ee; __cf_bm=wfHLTJ7vo35OsxR46Kueonra0jZ4_xizAaGMBQyMZ_I-1774027123.5076904-1.0.1.1-.Wz_fqCgTlkR4VixmTe7cQoLI0hv_jKKNG9DuigGMU9RW.dyteEs4jMP_Kp2xwe8ES.ySFeMmUYd.Tv2urG3ZgEo_gVnSfHDl9RaBLX80ayyaL_iDlFnPT1T9VUVTajb',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'same-origin',
+    'Sec-Fetch-User': '?1',
+    'DNT': '1',
+    'Priority': 'u=0, i',
+    # Requests doesn't support trailers
+    # 'TE': 'trailers',
+}
+
+data = {
+    'formGpvDate': '2026-03-21',
+    'formCity': 'Луцьк',
+    'formStreet': 'Незалежності',
+    'searchForm': 'searchFromForm',
+}
+
+response = requests.post(
+    'https://energy.volyn.ua/spozhyvacham/perervy-u-elektropostachanni/hrafik-vidkliuchen/pagephp.php#move',
+    cookies=cookies,
+    headers=headers,
+    data=data,
+)
