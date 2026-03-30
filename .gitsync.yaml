@@ -1,3 +1,4 @@
 repo:
-  name: "2 test repo"
+  name: "3 test repo"
   description: "thasdfasdfsdafct"
+  enabled: true
